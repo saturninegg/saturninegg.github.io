@@ -1,3 +1,181 @@
-{
-
-}
+[ {
+  "name" : "Deathknight",
+  "specs" : [ {
+    "name" : "Blood",
+    "status" : 0,
+    "x" : "-24px"
+  }, {
+    "name" : "Frost",
+    "status" : 0,
+    "x" : "-47px"
+  }, {
+    "name" : "Unholy",
+    "status" : 0,
+    "x" : "-70px"
+  } ],
+  "x" : "-1px"
+}, {
+  "name" : "Druid",
+  "specs" : [ {
+    "name" : "Balance",
+    "status" : 0,
+    "x" : "-116px"
+  }, {
+    "name" : "Restoration",
+    "status" : 0,
+    "x" : "-185px"
+  }, {
+    "name" : "Guardian",
+    "status" : 0,
+    "x" : "-162px"
+  }, {
+    "name" : "Feral",
+    "status" : 0,
+    "x" : "-139px"
+  } ],
+  "x" : "-93px"
+}, {
+  "name" : "Hunter",
+  "specs" : [ {
+    "name" : "Beast Mastery",
+    "status" : 0,
+    "x" : "-231px"
+  }, {
+    "name" : "Marksmanship",
+    "status" : 0,
+    "x" : "-254px"
+  }, {
+    "name" : "Survival",
+    "status" : 0,
+    "x" : "-277px"
+  } ],
+  "x" : "-208px"
+}, {
+  "name" : "Mage",
+  "specs" : [ {
+    "name" : "Fire",
+    "status" : 0,
+    "x" : "-346px"
+  }, {
+    "name" : "Frost",
+    "status" : 0,
+    "x" : "-369px"
+  }, {
+    "name" : "Arcane",
+    "status" : 0,
+    "x" : "-323px"
+  } ],
+  "x" : "-300px"
+}, {
+  "name" : "Monk",
+  "specs" : [ {
+    "name" : "Brewmaster",
+    "status" : 0,
+    "x" : "-415px"
+  }, {
+    "name" : "Mistweaver",
+    "status" : 1,
+    "x" : "-438px"
+  }, {
+    "name" : "Windwalker",
+    "status" : 0,
+    "x" : "-461px"
+  } ],
+  "x" : "-392px"
+}, {
+  "name" : "Paladin",
+  "specs" : [ {
+    "name" : "Holy",
+    "status" : 1,
+    "x" : "-507px"
+  }, {
+    "name" : "Protection",
+    "status" : 0,
+    "x" : "-530px"
+  }, {
+    "name" : "Retribution",
+    "status" : 1,
+    "x" : "-553px"
+  } ],
+  "x" : "-484px"
+}, {
+  "name" : "Priest",
+  "specs" : [ {
+    "name" : "Discipline",
+    "status" : 0,
+    "x" : "-599px"
+  }, {
+    "name" : "Holy",
+    "status" : 0,
+    "x" : "-622px"
+  }, {
+    "name" : "Shadow",
+    "status" : 0,
+    "x" : "-645px"
+  } ],
+  "x" : "-576px"
+}, {
+  "name" : "Rogue",
+  "specs" : [ {
+    "name" : "Assassination",
+    "status" : 1,
+    "x" : "-691px"
+  }, {
+    "name" : "Outlaw",
+    "status" : 1,
+    "x" : "-714px"
+  }, {
+    "name" : "Sublety",
+    "status" : 1,
+    "x" : "-667px"
+  } ],
+  "x" : "-668px"
+}, {
+  "name" : "Shaman",
+  "specs" : [ {
+    "name" : "Elemental",
+    "status" : 0,
+    "x" : "-783px"
+  }, {
+    "name" : "Enhancement",
+    "status" : 1,
+    "x" : "-806px"
+  }, {
+    "name" : "Restoration",
+    "status" : 0,
+    "x" : "-829px"
+  } ],
+  "x" : "-760px"
+}, {
+  "name" : "Warlock",
+  "specs" : [ {
+    "name" : "Affliction",
+    "status" : 0,
+    "x" : "-875px"
+  }, {
+    "name" : "Demonology",
+    "status" : 0,
+    "x" : "-898px"
+  }, {
+    "name" : "Destruction",
+    "status" : 0,
+    "x" : "-921px"
+  } ],
+  "x" : "-852px"
+}, {
+  "name" : "Warrior",
+  "specs" : [ {
+    "name" : "Arms",
+    "status" : 1,
+    "x" : "-967px"
+  }, {
+    "name" : "Fury",
+    "status" : 1,
+    "x" : "-990px"
+  }, {
+    "name" : "Protection",
+    "status" : 0,
+    "x" : "-1013px"
+  } ],
+  "x" : "-944px"
+} ]
