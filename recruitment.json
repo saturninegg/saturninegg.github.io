@@ -22,7 +22,7 @@
     "x" : "-116px"
   }, {
     "name" : "Restoration",
-    "status" : 0,
+    "status" : 1,
     "x" : "-185px"
   }, {
     "name" : "Guardian",
@@ -106,7 +106,7 @@
     "x" : "-599px"
   }, {
     "name" : "Holy",
-    "status" : 0,
+    "status" : 1,
     "x" : "-622px"
   }, {
     "name" : "Shadow",
@@ -142,7 +142,7 @@
     "x" : "-806px"
   }, {
     "name" : "Restoration",
-    "status" : 0,
+    "status" : 1,
     "x" : "-829px"
   } ],
   "x" : "-760px"
