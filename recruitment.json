@@ -110,7 +110,7 @@
     "x" : "-622px"
   }, {
     "name" : "Shadow",
-    "status" : 0,
+    "status" : 1,
     "x" : "-645px"
   } ],
   "x" : "-576px"
@@ -134,7 +134,7 @@
   "name" : "Shaman",
   "specs" : [ {
     "name" : "Elemental",
-    "status" : 0,
+    "status" : 1,
     "x" : "-783px"
   }, {
     "name" : "Enhancement",
