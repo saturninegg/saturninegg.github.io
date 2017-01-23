@@ -22,11 +22,11 @@
     "x" : "-116px"
   }, {
     "name" : "Restoration",
-    "status" : 1,
+    "status" : 0,
     "x" : "-185px"
   }, {
     "name" : "Guardian",
-    "status" : 0,
+    "status" : 1,
     "x" : "-162px"
   }, {
     "name" : "Feral",
@@ -38,11 +38,11 @@
   "name" : "Hunter",
   "specs" : [ {
     "name" : "Beast Mastery",
-    "status" : 0,
+    "status" : 1,
     "x" : "-231px"
   }, {
     "name" : "Marksmanship",
-    "status" : 0,
+    "status" : 1,
     "x" : "-254px"
   }, {
     "name" : "Survival",
@@ -54,15 +54,15 @@
   "name" : "Mage",
   "specs" : [ {
     "name" : "Fire",
-    "status" : 0,
+    "status" : 1,
     "x" : "-346px"
   }, {
     "name" : "Frost",
-    "status" : 0,
+    "status" : 1,
     "x" : "-369px"
   }, {
     "name" : "Arcane",
-    "status" : 0,
+    "status" : 1,
     "x" : "-323px"
   } ],
   "x" : "-300px"
@@ -70,7 +70,7 @@
   "name" : "Monk",
   "specs" : [ {
     "name" : "Brewmaster",
-    "status" : 0,
+    "status" : 1,
     "x" : "-415px"
   }, {
     "name" : "Mistweaver",
@@ -86,15 +86,15 @@
   "name" : "Paladin",
   "specs" : [ {
     "name" : "Holy",
-    "status" : 1,
+    "status" : 0,
     "x" : "-507px"
   }, {
     "name" : "Protection",
-    "status" : 0,
+    "status" : 1,
     "x" : "-530px"
   }, {
     "name" : "Retribution",
-    "status" : 1,
+    "status" : 0,
     "x" : "-553px"
   } ],
   "x" : "-484px"
@@ -106,7 +106,7 @@
     "x" : "-599px"
   }, {
     "name" : "Holy",
-    "status" : 1,
+    "status" : 0,
     "x" : "-622px"
   }, {
     "name" : "Shadow",
@@ -138,11 +138,11 @@
     "x" : "-783px"
   }, {
     "name" : "Enhancement",
-    "status" : 1,
+    "status" : 0,
     "x" : "-806px"
   }, {
     "name" : "Restoration",
-    "status" : 1,
+    "status" : 0,
     "x" : "-829px"
   } ],
   "x" : "-760px"
@@ -150,15 +150,15 @@
   "name" : "Warlock",
   "specs" : [ {
     "name" : "Affliction",
-    "status" : 0,
+    "status" : 1,
     "x" : "-875px"
   }, {
     "name" : "Demonology",
-    "status" : 0,
+    "status" : 1,
     "x" : "-898px"
   }, {
     "name" : "Destruction",
-    "status" : 0,
+    "status" : 1,
     "x" : "-921px"
   } ],
   "x" : "-852px"
@@ -170,11 +170,11 @@
     "x" : "-967px"
   }, {
     "name" : "Fury",
-    "status" : 1,
+    "status" : 0,
     "x" : "-990px"
   }, {
     "name" : "Protection",
-    "status" : 0,
+    "status" : 1,
     "x" : "-1013px"
   } ],
   "x" : "-944px"
