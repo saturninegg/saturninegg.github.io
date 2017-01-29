@@ -22,11 +22,11 @@
     "x" : "-116px"
   }, {
     "name" : "Restoration",
-    "status" : 0,
+    "status" : 1,
     "x" : "-185px"
   }, {
     "name" : "Guardian",
-    "status" : 1,
+    "status" : 0,
     "x" : "-162px"
   }, {
     "name" : "Feral",
@@ -70,7 +70,7 @@
   "name" : "Monk",
   "specs" : [ {
     "name" : "Brewmaster",
-    "status" : 1,
+    "status" : 0,
     "x" : "-415px"
   }, {
     "name" : "Mistweaver",
@@ -90,7 +90,7 @@
     "x" : "-507px"
   }, {
     "name" : "Protection",
-    "status" : 1,
+    "status" : 0,
     "x" : "-530px"
   }, {
     "name" : "Retribution",
@@ -170,11 +170,11 @@
     "x" : "-967px"
   }, {
     "name" : "Fury",
-    "status" : 0,
+    "status" : 1,
     "x" : "-990px"
   }, {
     "name" : "Protection",
-    "status" : 1,
+    "status" : 0,
     "x" : "-1013px"
   } ],
   "x" : "-944px"
