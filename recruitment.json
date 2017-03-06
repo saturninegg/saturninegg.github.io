@@ -22,7 +22,7 @@
     "x" : "-116px"
   }, {
     "name" : "Restoration",
-    "status" : 1,
+    "status" : 0,
     "x" : "-185px"
   }, {
     "name" : "Guardian",
@@ -38,11 +38,11 @@
   "name" : "Hunter",
   "specs" : [ {
     "name" : "Beast Mastery",
-    "status" : 1,
+    "status" : 0,
     "x" : "-231px"
   }, {
     "name" : "Marksmanship",
-    "status" : 1,
+    "status" : 0,
     "x" : "-254px"
   }, {
     "name" : "Survival",
@@ -54,15 +54,15 @@
   "name" : "Mage",
   "specs" : [ {
     "name" : "Fire",
-    "status" : 1,
+    "status" : 0,
     "x" : "-346px"
   }, {
     "name" : "Frost",
-    "status" : 1,
+    "status" : 0,
     "x" : "-369px"
   }, {
     "name" : "Arcane",
-    "status" : 1,
+    "status" : 0,
     "x" : "-323px"
   } ],
   "x" : "-300px"
@@ -110,7 +110,7 @@
     "x" : "-622px"
   }, {
     "name" : "Shadow",
-    "status" : 1,
+    "status" : 0,
     "x" : "-645px"
   } ],
   "x" : "-576px"
@@ -118,15 +118,15 @@
   "name" : "Rogue",
   "specs" : [ {
     "name" : "Assassination",
-    "status" : 1,
+    "status" : 0,
     "x" : "-691px"
   }, {
     "name" : "Outlaw",
-    "status" : 1,
+    "status" : 0,
     "x" : "-714px"
   }, {
     "name" : "Sublety",
-    "status" : 1,
+    "status" : 0,
     "x" : "-667px"
   } ],
   "x" : "-668px"
@@ -134,7 +134,7 @@
   "name" : "Shaman",
   "specs" : [ {
     "name" : "Elemental",
-    "status" : 1,
+    "status" : 0,
     "x" : "-783px"
   }, {
     "name" : "Enhancement",
@@ -150,15 +150,15 @@
   "name" : "Warlock",
   "specs" : [ {
     "name" : "Affliction",
-    "status" : 1,
+    "status" : 0,
     "x" : "-875px"
   }, {
     "name" : "Demonology",
-    "status" : 1,
+    "status" : 0,
     "x" : "-898px"
   }, {
     "name" : "Destruction",
-    "status" : 1,
+    "status" : 0,
     "x" : "-921px"
   } ],
   "x" : "-852px"
@@ -166,11 +166,11 @@
   "name" : "Warrior",
   "specs" : [ {
     "name" : "Arms",
-    "status" : 1,
+    "status" : 0,
     "x" : "-967px"
   }, {
     "name" : "Fury",
-    "status" : 1,
+    "status" : 0,
     "x" : "-990px"
   }, {
     "name" : "Protection",
